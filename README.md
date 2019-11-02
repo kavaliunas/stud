@@ -1,0 +1,2 @@
+# stud
+Medžiagos studentams testavimui
